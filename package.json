@@ -1,0 +1,11 @@
+{
+  "name": "trask-angular-server",
+  "version": "1.0.0",
+  "description": "Testing HTTP server",
+  "main": "index.js",
+  "author": "mschwarz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

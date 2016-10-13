@@ -1,0 +1,10 @@
+{
+	"heroes": [
+		{"alias": "Batman", "realName": " Bruce Wayne", "secretIdentity": true, "citizenship": ["USA"] , "firstAppearance": "Detective Comics #27(1939)"},
+		{"alias": "Superman","realName": "Kal El", "secretIdentity": true, "citizenship": ["USA"] , "firstAppearance": "Action Comics #1 (June 1938)"},
+		{"alias": "Daredevil", "realName": "Matthew Michael Murdock", "secretIdentity": false, "citizenship": ["USA"], "firstAppearance": "Daredevil #1 (1964)"},
+		{"alias": "IronMan", "realName": "Anthony Edward \"Tony\" Stark", "secretIdentity": false, "citizenship": ["USA"], "firstAppearance": "Tales of Suspense #39 (1963)"},
+		{"alias": "Hulk", "realName": "Robert Bruce Banner", "secretIdentity": false, "citizenship": ["USA"] , "firstAppearance": "Incredible Hulk #1 (1962)"},
+		{"alias": "Wolverine", "realName": "James Howlett", "secretIdentity": true, "citizenship": ["Canada", "Japan"] , "firstAppearance": "Incredible Hulk #180 (1974)"}
+ 	]
+}
